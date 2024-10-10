@@ -5,8 +5,8 @@ This is a test email body.
 
 Dear [target],
 
-We know that you work at [address] and are not afraid pay this place a visit if you do not respond quickly.
-We've attached a photo of your work for reference
+We know that you work at 456 Dan Reneau Dr and are not afraid pay this place a visit if you do not respond quickly.
+We've attached a photo of your work for reference.
 
 If you don't want us to show up, you must pay us [price] by [deadline] otherwise we will cause chaos.
 The longer you wait the more you'll have to pay. Better act fast and pay us here [link].
